@@ -1,0 +1,16 @@
+body {
+  width: 350px;
+}
+
+.field {
+  clear:both; 
+  text-align:right;
+}
+
+.label {
+  float:left;
+}
+
+h1 { 
+  text-align: center 
+}
